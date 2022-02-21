@@ -1,5 +1,5 @@
 # JAVA_MULTITHREADING
-<h2>INTRODUZIONE - Processo e Thead</h2>
+<h2>INTRODUZIONE - Processo e Thread</h2>
 <h3>PROCESSO</h3>
 <li>E' l'esecuzione di un software al quale il SO assegna una porzione di memoria (RAM) e un id univoco per poterlo gestire.</li>
 <li>Lo spazio di memoria non è condiviso.</li>
