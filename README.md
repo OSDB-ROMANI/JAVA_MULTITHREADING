@@ -39,7 +39,7 @@ Elenco stati del thread:
 <li>Dallo stato di bloccato (6) un thread può andare in pronto (2) quando termina la richiesta di I/O</li>
 <li>Dallo stato terminato (7) un thread viene "cancellato"</li>
 </hr>
-<h1>IMPLENTAZIONE IN JAVA</h1>
+<h1>IMPLEMENTAZIONE IN JAVA</h1>
 I thread in Java si possono implementare in due modi:
 <li>Estendendo la classe Thread</li>
 <li>Implementado la classe Runnable</li>
