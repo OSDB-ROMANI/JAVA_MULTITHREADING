@@ -42,9 +42,9 @@ Elenco stati del thread:
 <h1>IMPLEMENTAZIONE IN JAVA</h1>
 I thread in Java si possono implementare in due modi:
 <li>Estendendo la classe Thread</li>
-<li>Implementado la classe Runnable</li>
+<li>implementando la classe Runnable</li>
 <h2>extends Thread</h2>
-<li>@override del metodo run(): contiene tutte le istruzione che deve svolgere il thread</li>
+<li>@Override del metodo run(): contiene tutte le istruzione che deve svolgere il thread</li>
 <li>nel main devo creare un oggetto della classe invocare il metodo start</li>
 Esempio MultiThread
 <h2>implements Runnable</h2>
@@ -55,4 +55,4 @@ Esempio MultiRunnable
 
 <h2>INDIPENDENZA</h2>
 Gli esempio mostrano il concetto dell'indipendenza dei sotto processi, cioè il primo a essere lanciato non è detto che termini per primo (dipende dalla gestione della CPU) e se un thread termina per un errore o altro motivo gli altri proseguono col loro compito.
-<h3>La concorranza verrà trattata in un altro post</h3>
+<h3>La concorrenza verrà trattata in un altro post</h3>
