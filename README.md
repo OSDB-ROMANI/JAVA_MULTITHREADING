@@ -42,7 +42,7 @@ Elenco stati del thread:
 <h1>IMPLEMENTAZIONE IN JAVA</h1>
 I thread in Java si possono implementare in due modi:
 <li>Estendendo la classe Thread</li>
-<li>implementando la classe Runnable</li>
+<li>implementando l'interfaccia Runnable</li>
 <h2>extends Thread</h2>
 <li>@Override del metodo run(): contiene tutte le istruzione che deve svolgere il thread</li>
 <li>nel main devo creare un oggetto della classe invocare il metodo start</li>
